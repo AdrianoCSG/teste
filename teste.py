@@ -1,0 +1,3 @@
+# esse aqui é um código teste para mostrar como usar o git
+print("EU ODEIO TODO MUNDO VAI TOMAR NO CU FILHA DUMA PUTA EU QUERO SOCAR ALGUÉM ATÉ ESSA PESSOA MORRER E FICAR TÃO DESFIGURADA QUE ATÉ A MÃE NÃO VAI RECONHECER")
+print("oi")
